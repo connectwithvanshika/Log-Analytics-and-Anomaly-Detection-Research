@@ -17,7 +17,7 @@ Modern applications generate massive amounts of telemetry data in the form of:
 * Infrastructure Data
 * User Experience Data
 
-Platforms such as Dynatrace transform this raw data into meaningful insights using topology mapping, machine learning, causal AI, and graph-based analysis.
+Through this research, I aim to bridge the gap between theory and implementation by studying real-world platforms, documenting architectural insights, experimenting with algorithms, and gradually developing my own Dynatrace-inspired anomaly detection and incident analysis system.
 
 This repository serves as a research notebook where I document my findings while studying these systems and exploring how similar capabilities can be built from scratch.
 
