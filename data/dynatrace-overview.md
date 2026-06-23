@@ -378,3 +378,6 @@ Davis AI
 ```
 
 to create a contextual understanding of the entire system. This contextual foundation is what enables accurate anomaly detection and root cause analysis in large-scale distributed environments.
+
+<img width="1165" height="682" alt="Screenshot 2026-06-23 at 13 51 17" src="https://github.com/user-attachments/assets/a41f7aeb-5575-48bf-a84b-0a83ba8b66e6" />
+
